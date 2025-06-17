@@ -19,6 +19,32 @@ Just simple if-else conditions that feel like advice from a human
 
 If you just want to exlpore, open the health_assistant.py file and enter the data required if you are aware and then you can just get your health status, as simple as it is!!
 
+Here's a sample output:
+👋 Welcome to the AI Health & Wellness Assistant!
+What's your name? Varsha
+
+Hi Varsha! Let's check your vitals:
+Heart Rate (bpm): 105
+Systolic BP: 130
+Diastolic BP: 85
+SpO2 (%): 94
+Blood Sugar (mg/dL): 145
+Body Temperature (°F): 99.5
+
+📋 Health Analysis:
+• Heart Rate: Heart rate is high ❤️‍🔥 – try to relax and reduce stress
+• Blood Pressure: Blood pressure is elevated ⚠️ – reduce salt intake
+• SpO2: Oxygen level is low 😮‍💨 – try deep breathing
+• Blood Sugar: Blood sugar is high 🍩 – avoid sugary foods
+• Body Temperature: Slightly elevated 🌡️ – monitor hydration
+
+💡 General Wellness Tips:
+• Get 7-8 hours of sleep 😴
+• Stay hydrated 💧
+• Eat protein-rich foods 🥗
+• Exercise regularly 🏃‍♀️
+• Manage stress with mindfulness 🧘
+
 Future scope:
 I want to extend it with GUI, maintaing user database improving interaction, voice based modules, and also integrating translators(multi-lingual recognition).
 
